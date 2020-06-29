@@ -8,7 +8,7 @@ cd number-generator
 ```
 ## Build the project using maven
 ```
-mvn clean install 
+mvn package 
 ```
 
 ## Start the spring boot application
